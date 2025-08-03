@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=768x576
+https://raw.githubusercontent.com/pasterization/8eb5853994e037ee/refs/heads/master/github_playlist.m3u8?_cb=1754221868
